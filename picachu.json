@@ -1,0 +1,13 @@
+{
+    "nombre": "Pikachu",
+    "tipo": "Eléctrico",
+    "habilidades": [
+        "Impactrueno",
+        "Ataque Rápido",
+        "Rayo"
+    ],
+    "color": "Amarillo",
+    "altura": "0.4 m",
+    "peso": "6 kg",
+    "descripcion": "Pikachu es un Pokémon eléctrico muy conocido por su carisma y su cola en forma de rayo."
+}
